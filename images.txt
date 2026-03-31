@@ -1,8 +1,2 @@
 # docker.io to aliyun
-redis:7.2.5|crpi-hxv5qm6kvbb2k504.cn-hangzhou.personal.cr.aliyuncs.com/superman132/redis:7.2.5
-# quay.io to aliyun
-quay.io/coreos/etcd:v3.5.17|crpi-hxv5qm6kvbb2k504.cn-hangzhou.personal.cr.aliyuncs.com/superman132/etcd:v3.5.17
-# k8s.gcr.io to aliyun
-k8s.gcr.io/pause:3.2|crpi-hxv5qm6kvbb2k504.cn-hangzhou.personal.cr.aliyuncs.com/superman132/pause:3.2
-# gcr.io to aliyun
-gcr.io/google-containers/coredns:1.6.6|crpi-hxv5qm6kvbb2k504.cn-hangzhou.personal.cr.aliyuncs.com/superman132/coredns:1.6.6
+busybox:latest |crpi-hxv5qm6kvbb2k504.cn-hangzhou.personal.cr.aliyuncs.com/hutest321/busybox:latest
